@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Welcome to Techno Study</string>
+    <string name="header_1">MAKE A STEP TO HIGH PAID AND ENJOYING JOB WITH US</string>
+    <string name="header1_text">
+        TechnoStudy provides top-notch training programs to EVERYONE that help to position them
+        for top-rated IT jobs. We are a tech school that is focused on helping you skyrocket your
+        career in IT with our extensive programs and training that include training by highly
+        educated IT professionals as well as hands-on experience.
+    </string>
+    <string name="header_2">
+        How Techno Study helps IT professionals in positioning for Top-ranked IT jobs
+    </string>
+    <string name="header2_text_p1">
+        IT is a very agile market when compared to other fields and sectors. <i>For that matter,
+        it is very important to keep up with the evolving IT market scenario to stay relevant
+        in the market.</i> The rapid rate of innovation demands you to take on specialized roles like
+        SDET, or else you might lose the race if you do not keep indulging in the latest training
+        for software development and agile methodologies.</string>
+    <string name="header2_text_p2">
+        Team TechnoStudy keeps updating its programs and training to keep your technical skill-set
+        up-to-date and allows you to take up specialized roles with the help of emerging technology
+        tools. <u>Besides instructing, TechnoStudy provides students with hands-on experience by
+        making them work on projects with the instructors that polish their skills further.</u>
+        We produce IT professionals, with leadership and IT skills that are acquainted with the latest
+        frameworks, methodologies, and tools. For more information visit our website: www.techno.study
+    </string>
+    <string name="vision">Vision</string>
+    <string name="vision_text">
+        TechnoStudy vision is to hold a place among the most renowned IT transformational
+        institutes there exist. <b>We aim to work hard to design programs and courses that are
+        directed towards the development of advanced IT skill-sets</b> to help IT professionals excel
+        in the global IT market as well as be equipped to adapt to the ever-evolving IT demands,
+        challenges, and threats.
+    </string>
+    <string name="mission">Mission</string>
+    <string name="mission_text">
+        Our mission is to remain passionate and motivated when it comes to developing immersive
+        programs and courses for students to help them become highly skilled IT professionals
+        while positioning them for top IT jobs.
+    </string>
+    <string name="content_desc">Techno Study Logo</string>
+</resources>
